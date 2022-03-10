@@ -1,0 +1,11 @@
+body{
+    background-color:black ;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    translate: 10px;
+    
+}
